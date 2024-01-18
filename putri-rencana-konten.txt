@@ -3,9 +3,11 @@ RENCANA KONTEN PUTRI
 - JAVASCRIPT
   * ES6
   * FRAMEWORKS JAVASCRIPT
-    -> Angular
+    -> Vue
     -> React
+- STRUKTUR DATA DASAR
 - PHP FRAMEWORKS
-  * Laravel
+  -> Laravel
 - INTERVIEW
 - VLOGS
+- PYTHON
